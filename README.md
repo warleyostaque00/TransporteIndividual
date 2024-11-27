@@ -1,5 +1,5 @@
 ## Atividade 1 - Terceiro Bimestre de P.O.O
-Este repositório contém o projeto da Atividade 1 do terceiro bimestre de Programação Orientada a Objetos do professor Rogério. O objetivo da atividade foi implementar um sistema que utiliza o padrão de projeto Abstract Factory para gerenciar o aluguel de meios de transporte individuais.
+Este repositório abriga o projeto da Atividade 1 do terceiro bimestre da disciplina de Programação Orientada a Objetos 2 (POO2), ministrada pelo professor Rogério. O objetivo da atividade foi desenvolver um sistema que emprega o padrão de projeto Abstract Factory para gerenciar o aluguel de meios de transporte individuais.
 
 ## Descrição do Projeto
 O sistema foi projetado para criar e gerenciar meios de transporte individuais, classificados em duas categorias principais: propulsionados por bateria e propulsionados por esforço humano. Para isso, adotamos o padrão de projeto Abstract Factory, assegurando que a criação dos objetos seja estruturada e modular, o que facilita a extenção e a manutenção do código.

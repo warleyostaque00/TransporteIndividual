@@ -2,7 +2,7 @@
 Este repositório contém o projeto da Atividade 1 do terceiro bimestre de Programação Orientada a Objetos do professor Rogério. O objetivo da atividade foi implementar um sistema que utiliza o padrão de projeto Abstract Factory para gerenciar o aluguel de meios de transporte individuais.
 
 ## Descrição do Projeto
-O sistema foi desenvolvido para criar e gerenciar transportes individuais, divididos em duas categorias principais: movidos a bateria e movidos a esforço humano. Para isso, utilizamos o padrão de projeto Abstract Factory, garantindo que a criação dos objetos fosse organizada e modular, facilitando a extensão e a manutenção do código.
+O sistema foi projetado para criar e gerenciar meios de transporte individuais, classificados em duas categorias principais: propulsionados por bateria e propulsionados por esforço humano. Para isso, adotamos o padrão de projeto Abstract Factory, assegurando que a criação dos objetos seja estruturada e modular, o que facilita a extenção e a manutenção do código.
 
 ## Funcionalidades
 Criação de transportes individuais conforme o tipo de propulsão:
